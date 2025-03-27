@@ -15,6 +15,7 @@ function App() {
            }
            else{
                   setCount(start)
+                  setText('')
            }
       }
 
